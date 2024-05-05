@@ -6,4 +6,4 @@
 
 | Version | Status|
 |:--------|:-----:|
-|v0.1     |![alt text][supported]|
+|v0.1     | ![alt text][supported] |
