@@ -6,4 +6,4 @@
 
 | Version | Status|
 |:--------|:-----:|
-|v0.1     | ![alt text][supported] |
+|v0.1     | ![Static Badge](https://img.shields.io/badge/Status-In_Development-darkblue?style=plastic) |
